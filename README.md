@@ -29,7 +29,7 @@ Building this helped me solidify a few key React concepts:
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/coin-watch.git](https://github.com/YOUR_USERNAME/coin-watch.git)
+    https://github.com/CH-V-SAditya/coin-watch.git
     ```
 2.  **Install & Run:**
     ```bash
