@@ -2,7 +2,7 @@
 
 A React dashboard that tracks cryptocurrency prices in real-time. I built this project to get hands-on experience with API integration and modern CSS layouts.
 
-**[Link to Live Demo](PUT_YOUR_VERCEL_LINK_HERE)**
+**[Link to Live Demo](https://coin-watch-rosy.vercel.app/?)**
 
 ![Project Screenshot](public/screenshot.png)
 
